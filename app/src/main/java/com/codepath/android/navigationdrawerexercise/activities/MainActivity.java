@@ -9,7 +9,7 @@ import androidx.appcompat.widget.Toolbar;
 
 import com.codepath.android.navigationdrawerexercise.R;
 
-//Naviga
+//Navigat
 public class MainActivity extends AppCompatActivity {
 
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
