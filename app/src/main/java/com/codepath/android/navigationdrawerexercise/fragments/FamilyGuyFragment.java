@@ -8,6 +8,7 @@ import android.view.ViewGroup;
 
 import com.codepath.android.navigationdrawerexercise.R;
 
+// Creating teh family
 public class FamilyGuyFragment extends Fragment {
 
     @Override
