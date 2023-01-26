@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 
 import com.codepath.android.navigationdrawerexercise.R;
 
-// Creating the family guy fragment
+// Creating the futurama fragment
 public class FuturamaFragment extends Fragment {
 
     @Override
